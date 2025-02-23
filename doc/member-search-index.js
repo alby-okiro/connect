@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ui","c":"Connect4TextConsole","l":"Connect4TextConsole()","u":"%3Cinit%3E()"},{"p":"ui","c":"Connect4TextConsole","l":"startGame()"}];updateSearchResults();
